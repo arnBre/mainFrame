@@ -1,7 +1,7 @@
 # mainFrame
 test
 
-## DEtte er kapitel 1
+## DEtte er kapitel 1 Adding a line for rebasing
 
 hhfhfhffh
 
