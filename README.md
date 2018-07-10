@@ -1,7 +1,7 @@
 # mainFrame
 test
 
-## DEtte er kapitel 1 Adding a line for rebasing
+## DEtte er kapitel 1 Adding a line for rebasing, more changes from myfeature branch
 
 hhfhfhffh
 
