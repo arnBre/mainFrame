@@ -1,4 +1,6 @@
 testtttt
-
+Loacale endringer
 
 endringer i master 2
+
+Locale endringer
