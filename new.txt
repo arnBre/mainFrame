@@ -1,6 +1,6 @@
 Endring i master 
 Linje 2
-Linje 3
+Linje 55555
 endringer i title-change branch 
 endringer i feature branch
 Endring i master
