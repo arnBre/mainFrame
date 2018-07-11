@@ -3,6 +3,7 @@ Linje 2
 Linje 55555
 endringer i title-change branch 
 endringer i feature branch
+en ny linje
 Endring i master
 endring på grunn av stashing
 en multiple stash endring
