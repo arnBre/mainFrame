@@ -1,2 +1,3 @@
 test git quick strat demo
 endringer utført i GITHUB
+en multiple stash endring
