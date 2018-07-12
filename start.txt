@@ -2,3 +2,5 @@ test git quick strat demo
 endringer utført i GITHUB
 en multiple stash endring
 en multiple stash endring til
+
+en linje som også skal vises som tag difference
